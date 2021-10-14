@@ -10,3 +10,4 @@ Please use this format:
 These are volunteer that has been selected:
 
 * Oon Arfiandwi, [oo.or.id](https://oo.or.id).
+* Geraldio Ramadhan S, [Linkedin](https://www.linkedin.com/in/geraldiors/).
